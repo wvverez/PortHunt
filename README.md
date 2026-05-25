@@ -12,10 +12,12 @@
 ![ARP](https://img.shields.io/badge/Tool-ARP--Scan-red)
 ![Nmap](https://img.shields.io/badge/Tool-Nmap-blue)
 
-
 <div align="center">
-### ARP • Ports • Bash • OS
+
+**ARP • Ports • Bash • OS**
+
 <sub>Made with ❤️ by Wvverez</sub>
+
 </div>
 
 ## Mode Of Use
