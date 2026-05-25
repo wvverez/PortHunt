@@ -2,8 +2,6 @@
 
 # PortHunt
 
-Tool for automated local network reconnaissance, OS fingerprinting, and optional Nmap service scanning using arp-scan and Bash
-
 <img width="1536" height="1024" alt="Port_Hunt" src="https://github.com/user-attachments/assets/e82d66ee-f280-494e-b8dd-9f0344bf8723" />
 
 
