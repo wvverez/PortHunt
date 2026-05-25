@@ -22,7 +22,7 @@
 
 ## Mode Of Use
 
-```Java
+```Bash
 chmod +x scan.sh
 ./scan.sh
 ```
