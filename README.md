@@ -13,7 +13,6 @@
 
 <div align="center">
 
-**ARP • Ports • Bash • OS**
 
 <sub>Made with ❤️ by Wvverez</sub>
 
