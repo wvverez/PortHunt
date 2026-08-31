@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  Made with ❤️ by Wvverez
+  Made with ❤️ by @wvverez
 </p>
 
 
