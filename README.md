@@ -11,15 +11,15 @@
 <h4 align="center">Host Discovering & Port Scanner</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-orange">
-  <img src="https://img.shields.io/badge/Python-3.x-orange">
+  <img src="https://img.shields.io/badge/platform-Linux-orange">
+  <img src="https://img.shields.io/badge/Bash-5.3%2B-orange">
   <img src="https://img.shields.io/badge/license-MIT-orange">
 </p>
 
+<p align="center">
+  Made with ❤️ by Wvverez
+</p>
 
-<sub>Made with ❤️ by Wvverez</sub>
-
-</div>
 
 ## Mode Of Use
 
