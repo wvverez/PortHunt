@@ -20,6 +20,39 @@
   Made with ❤️ by Wvverez
 </p>
 
+## Características
+
+- [x] Escaneo de redes locales mediante `arp-scan`.
+- [x] Soporte para múltiples interfaces de red.
+- [x] Detección de direcciones IP y MAC.
+- [x] Filtrado de dispositivos según fabricante/OUI.
+- [x] Identificación básica del sistema operativo mediante TTL.
+- [x] Detección de puertos TCP abiertos.
+- [x] Interfaz de línea de comandos.
+- [x] Cancelación segura mediante `SIGINT`.
+
+## Requisitos
+
+- Linux
+- Bash
+- `ip`
+- `ping`
+- `sudo`
+- `arp-scan`
+- `nmap`
+
+> El script puede instalar automáticamente `arp-scan` mediante `apt` si no está disponible.
+
+# Modo de uso
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/wvverez/Vurta.git
+cd Vurta
+```
+
+
 
 ## Mode Of Use
 
@@ -61,9 +94,15 @@ PORT      STATE SERVICE      VERSION
 [+] Escaneo completado
 ```
 
-> [!WARNING]
-> **This script is for educational and authorized penetration testing purposes ONLY.**
-> **Unauthorized use on systems without explicit permission is ILLEGAL.**
-> **The author is not responsible for any misuse that may be made of them.**
+### AVISO LEGAL Y ÉTICO
 
+Vurta es una herramienta exclusivamente educativa para el aprendizaje y la auditoría de seguridad informática. El uso de este software sin el consentimiento explícito del propietario de la red o sistema objetivo está estrictamente prohibido y puede constituir un delito en la mayoría de los países.
+
+Al utilizar Vurta, el usuario acepta estas condiciones y se compromete a emplearla únicamente en redes y entornos controlados sobre los que tenga autorización previa.
+
+La seguridad informática es para proteger, no para dañar. Actúa siempre con responsabilidad :)
+
+### Donaciones
+
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" height="20"> **Ethereum (ETH):** `0x624DA9b65d42757713a469D57051701917C2D3f8`
 [![Donate me a coffee](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=99PC9L7CFB5ZL)
