@@ -37,8 +37,8 @@ Vurta es una herramienta de reconocimiento de red desarrollada en Bash para Linu
 
 ## Requisitos
 
-- Linux
-- Bash
+- `Linux`
+- `Bash`
 - `ip`
 - `ping`
 - `sudo`
