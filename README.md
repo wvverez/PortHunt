@@ -20,6 +20,10 @@
   Made with ❤️ by Wvverez
 </p>
 
+
+Vurta es una herramienta de reconocimiento de red desarrollada en Bash para Linux. Permite descubrir dispositivos conectados a una red local, identificar sus direcciones IP y MAC, realizar una detección básica del sistema operativo mediante TTL y ejecutar escaneos de puertos y servicios y versiones.
+
+
 ## Características
 
 - [x] Escaneo de redes locales mediante `arp-scan`.
