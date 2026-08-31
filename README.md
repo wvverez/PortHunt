@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/wvverez/VurtaC2/">
-    <img src="https://raw.githubusercontent.com/wvverez/VurtaC2/main/docs/vurta.png" width="160" height="150" alt="Vurta">
+    <img src="https://raw.githubusercontent.com/wvverez/Vurta/main/docs/vurta.png" width="160" height="150" alt="Vurta">
   </a>
   <br>
   Vurta
