@@ -54,7 +54,7 @@ cd Vurta
 
 
 
-## Mode Of Use
+## Ejecución
 
 ```Bash
 chmod +x scan.sh
@@ -96,7 +96,7 @@ PORT      STATE SERVICE      VERSION
 
 ### AVISO LEGAL Y ÉTICO
 
-Vurta es una herramienta exclusivamente educativa para el aprendizaje y la auditoría de seguridad informática. El uso de este software sin el consentimiento explícito del propietario de la red o sistema objetivo está estrictamente prohibido y puede constituir un delito en la mayoría de los países.
+**Vurta** es una herramienta exclusivamente educativa para el aprendizaje y la auditoría de seguridad informática. El uso de este software sin el consentimiento explícito del propietario de la red o sistema objetivo está estrictamente prohibido y puede constituir un delito en la mayoría de los países.
 
 Al utilizar Vurta, el usuario acepta estas condiciones y se compromete a emplearla únicamente en redes y entornos controlados sobre los que tenga autorización previa.
 
@@ -105,4 +105,5 @@ La seguridad informática es para proteger, no para dañar. Actúa siempre con r
 ### Donaciones
 
 <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg" width="20" height="20"> **Ethereum (ETH):** `0x624DA9b65d42757713a469D57051701917C2D3f8`
+
 [![Donate me a coffee](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate?hosted_button_id=99PC9L7CFB5ZL)
