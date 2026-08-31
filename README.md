@@ -1,17 +1,20 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/wvverez/VurtaC2/">
+    <img src="https://raw.githubusercontent.com/wvverez/VurtaC2/main/docs/vurta.png" width="160" height="150" alt="Vurta">
+  </a>
+  <br>
+  Vurta
+  <br>
+</h1>
 
-<img width="1536" height="1024" alt="Port_Hunt" src="https://github.com/user-attachments/assets/e82d66ee-f280-494e-b8dd-9f0344bf8723" />
+<h4 align="center">Host Discovering & Port Scanner</h4>
 
-<h3 align="center">😈 PortHunt</h3>
-
---- 
-
-![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Platform](https://img.shields.io/badge/Platform-Linux-blue)
-![ARP](https://img.shields.io/badge/Tool-ARP--Scan-red)
-![Nmap](https://img.shields.io/badge/Tool-Nmap-blue)
-
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-orange">
+  <img src="https://img.shields.io/badge/Python-3.x-orange">
+  <img src="https://img.shields.io/badge/license-MIT-orange">
+</p>
 
 
 <sub>Made with ❤️ by Wvverez</sub>
